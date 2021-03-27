@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Homework\Y4SemA\GraphicalComputing\Final Project\Tank Model - Final Terrain Work\vs2017test\vs2017test\main.cpp(455,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Homework\Y4SemA\GraphicalComputing\Final Project\Tank Model - Final Terrain Work\vs2017test\vs2017test\main.cpp(458,31): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+D:\Homework\Y4SemA\GraphicalComputing\Final Project\Tank Model - Final Terrain Work\vs2017test\vs2017test\main.cpp(1290,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  vs2017test.vcxproj -> D:\Homework\Y4SemA\GraphicalComputing\Final Project\Tank Model - Final Terrain Work\vs2017test\Debug\vs2017test.exe
